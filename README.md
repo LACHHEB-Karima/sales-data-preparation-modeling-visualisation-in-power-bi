@@ -98,7 +98,7 @@ This view supports analysis of:
 * Performance across different dimensions
 * Key sales indicators
 
-![Sales Overview](images/Sales-Overview(2).png)
+![Sales Overview](images/Sales-Overview.png)
 
 ---
 
