@@ -98,7 +98,7 @@ This view supports analysis of:
 * Performance across different dimensions
 * Key sales indicators
 
-![Sales Overview](images/Sales Overview(2).png)
+![Sales Overview](images/Sales-Overview(2).png)
 
 ---
 
@@ -115,7 +115,7 @@ The analysis supports questions such as:
 * How does product performance evolve?
 * Which products represent growth opportunities?
 
-![Product Details](images/product analysis.png)
+![Product Details](images/product-analysis.png)
 
 ---
 
@@ -131,7 +131,7 @@ It helps identify:
 * Differences between customer groups
 * Opportunities for customer-focused strategies
 
-![Customer Details](images/customer analysis.png)
+![Customer Details](images/customer-analysis.png)
 
 ---
 
